@@ -1,15 +1,14 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n';
-import { watch } from 'vue';
+import { setLocale } from '@/scripts/i18n';
 
+const {locale} = useI18n()
 
-const { locale, t} = useI18n()
+async function onlangChange(e: Event) {
+    const value = (e.target as HTMLSelectElement).value
+    await setLocale(value as any)
+}
 
-watch(locale, (newLocale) => {
-    if (newLocale) {
-        localStorage.setItem('lang', newLocale)
-    }
-})
 </script>
 
 
@@ -24,7 +23,7 @@ watch(locale, (newLocale) => {
 
         <div class="center-main-content">
             <h2 v-html="$t('language')"></h2>
-            <select v-model="locale">
+            <select :value="locale" @change="onlangChange">
                 <option value="en">English</option>
                 <option value="es">Español</option>
                 <!-- <option>日本語</option> -->

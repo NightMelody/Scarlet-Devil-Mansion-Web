@@ -1,8 +1,3 @@
-<script setup lang="ts">
-import { Translation } from 'vue-i18n';
-
-</script>
-
 <template>
     <div class="center-main">
         <div class='center-main-head'>

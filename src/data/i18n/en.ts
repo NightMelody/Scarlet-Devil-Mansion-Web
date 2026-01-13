@@ -17,4 +17,15 @@ export default {
     owner: "Scarlet Mistress",
     mod: "Entourages",
     helper: "Fairies",
+    ///////////////////////////
+    leftPanelTitle: "Touhou Project",
+    leftPanelInfo: "Touhou Project is a danmaku shoot 'em up videogame series, created by Team Shanghai Alice.",
+    //
+    leftPanelThCopy: "Copyright status/Terms of Use of the Touhou Project",
+    //
+    notAssociated: "This website is not associated with Team Shanghai Alice. This is just a website that I made for fun.",
+    //
+    copyright: 'This website is licensed under the <a href="https://github.com/NightMelody/Scarlet-Devil-Mansion-Web/blob/main/LICENSE">MIT License</a>.',
+    ///////////////////////////
+    commigSoon: "Comming soon."
 }

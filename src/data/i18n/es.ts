@@ -17,4 +17,15 @@ export default {
     owner: "Señoritas Scarlet", // To implement <i></i>
     mod: "Sequitos",
     helper: "Hadas",
+    ///////////////////////////
+    leftPanelTitle: "<i>Touhou Project</i>",
+    leftPanelInfo: "<i>Touhou Project</i> es una saga de videojuegos del género <i>danmaku</i>, creado por el <i>Team Shanghai Alice</i>.",
+    //
+    leftPanelThCopy: "Estado de derechos de autor/Términos de uso de <i>Touhou Project</i>",
+    //
+    notAssociated: "Esta página web no está asociada con el <i>Team Shanghai Alice</i>. Solo la hice por diversión.",
+    //
+    copyright: 'Esta página esta bajo la licencia <a href="https://github.com/NightMelody/Scarlet-Devil-Mansion-Web/blob/main/LICENSE"><i>MIT License</i></a>.',
+    ///////////////////////////
+    commigSoon: "Próximamente."
 }
