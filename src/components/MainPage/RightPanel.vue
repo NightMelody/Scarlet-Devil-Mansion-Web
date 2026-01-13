@@ -7,7 +7,9 @@ import StaffList from '../StaffList.vue';
 
 <template>
     <div class="main-right-panel">
-        <StaffList />
+        <!-- By default desable, cuz I need permission to put this -->
+        <!-- <StaffList /> -->
+        <p> Comming soon</p>
     </div>
 </template>
 

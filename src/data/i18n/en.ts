@@ -2,10 +2,10 @@ export default {
     title: "Scarlet Devil Mansion",
     //
     welcomeText: "Welcome to the Scarlet Devil Mansion!",
-    pleases: "Nos complace que hayas visitados nuestra página web.<br>Te invitamos, cordialmente a unirte a nuestro servidor de <i>Discord</i>.",
+    pleases: "We are pleased that you have visited our website.<br>We cordially invite you to join our Discord Server.",
     //
     reasonsAsk: "Why?",
-    reasons: "Al unirte, podras participar en varios eventos con recompensas,<br>así como hablar con gente, cuales también disfrutan de <i>Touhou Project</i>.",
+    reasons: "By joining, you'll be able to participate in various events that allow you to get some rewards,<br>but talk to people too. People that also enjoys Touhou Project</i>.",
     //
     officialLinks: "Official Links",
     discordLink: "Discord Server",
