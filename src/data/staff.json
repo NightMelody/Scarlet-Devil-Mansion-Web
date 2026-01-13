@@ -1,0 +1,39 @@
+[
+    {
+        "name": "｢縁𝐑𝐞𝐦𝐢𝐥𝐢𝐚 𝐒𝐜𝐚𝐫𝐥𝐞𝐭",
+        "range": "owner",
+        "pfp": "https://cdn.discordapp.com/avatars/1446744055680860292/7c80613c8e6b4f8c0c6e8c1f46e30f7b.png"
+    },
+
+    {
+        "name": "Sarna Kochiya",
+        "range": "mod",
+        "pfp": "https://cdn.discordapp.com/avatars/893925056621719603/e17334ea6fe4c4575a45634e28efd48c.png"
+    },
+
+
+    {
+        "name": "Vectorman",
+        "range": "mod",
+        "pfp": "https://cdn.discordapp.com/avatars/1169586253004546062/33c1ba95600c1ada6f10be5b6ff10bdf.png"
+    },
+
+    {
+        "name": "𝐍𝐚𝐫𝐮",
+        "range": "mod",
+        "pfp": "https://cdn.discordapp.com/avatars/1451795991383769169/14f0eb066c36fa6ce40308f9e8ef75ff.png"
+    },
+
+    {
+        "name": "bnuuy_Udonge",
+        "range": "helper",
+        "pfp": "https://cdn.discordapp.com/avatars/815630050191736862/cc98c742831e901c577e4b0692037216.png"
+    },
+
+    {
+        "name": "ノクチィクス",
+        "range": "helper",
+        "pfp": "https://cdn.discordapp.com/avatars/1180366059694460958/6cbc4842950e47cebe29d5cfe5f21ccf.png",
+        "ruby": "NoctiX"
+    }
+]

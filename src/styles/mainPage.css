@@ -1,0 +1,75 @@
+.main-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 25px 0%;
+    gap: 30px;
+}
+
+.main-left-panel {
+    background-color: var(--bg-clear-color);
+    height: 90vh;
+    width: 17vw;
+    border: 2px solid var(--brigth-color);
+    align-content: start;
+    text-align: center;
+
+    overflow-y: auto;
+
+    scrollbar-width: thin;
+    scrollbar-gutter: stable both-edges;
+    scrollbar-color: var(--brigth-color) transparent;
+}
+
+.center-main, .center-options {
+    background-color: var(--bg-clear-color);
+    width: 55vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    border: 2px solid var(--brigth-color);
+    
+}
+
+.center-main-content {
+    width: 90%;
+    overflow-y: auto;
+
+    scrollbar-width: thin;
+    scrollbar-gutter: stable both-edges;
+    scrollbar-color: var(--brigth-color) transparent;
+}
+
+.center-main-content::-webkit-scrollbar-thumb {
+    opacity: 0.7;
+}
+
+.main-right-panel {
+    background-color: var(--bg-clear-color);
+    height: 90vh;
+    width: 17vw;
+    border: 2px solid var(--brigth-color);
+    align-content: start;
+    text-align: center;
+
+    overflow-y: auto;
+
+    scrollbar-width: thin;
+    scrollbar-gutter: stable both-edges;
+    scrollbar-color: var(--brigth-color) transparent;
+}
+
+.staff-list p {
+    text-align: center;
+}
+
+.staff-list img.profile-image {
+    display: block;
+    margin: 0 auto 0px;
+}
+
+.sidebar {
+    margin: 15px 0px;
+}
