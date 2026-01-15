@@ -15,6 +15,7 @@ export default {
     language: "Language",
     ///////////////////////////
     owner: "Scarlet Mistress",
+    admin: "Head Maid",
     mod: "Entourages",
     helper: "Fairies",
     ///////////////////////////

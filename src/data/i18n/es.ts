@@ -14,7 +14,8 @@ export default {
     preferences: "Preferencias",
     language: "Idioma",
     ///////////////////////////
-    owner: "Señoritas Scarlet", // To implement <i></i>
+    owner: "Señoritas Scarlet",
+    admin: "Sirvientas Jefas",
     mod: "Sequitos",
     helper: "Hadas",
     ///////////////////////////

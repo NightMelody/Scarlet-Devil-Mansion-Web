@@ -30,7 +30,6 @@ const i18n = createI18n({
     messages: {}
 })
 
-
 async function loadLocaleMesages(locale: AvailableLocale) {
     const messages = await import(`@/data/i18n/${locale}.ts`)
     i18n.global.setLocaleMessage(locale, messages.default)

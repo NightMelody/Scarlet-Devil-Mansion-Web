@@ -17,6 +17,7 @@ const groupedStaff = computed(() => {
 })
 const rangeTitles = computed(() => ({
     owner: t('owner'),
+    admin: t('admin'),
     mod: t('mod'),
     helper: t('helper')
 }) as any)  

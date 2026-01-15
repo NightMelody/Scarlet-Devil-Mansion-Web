@@ -8,8 +8,8 @@ import StaffList from '../StaffList.vue';
 <template>
     <div class="main-right-panel">
         <!-- By default desable, cuz I need permission to put this -->
-        <!-- <StaffList /> -->
-        <p v-html="$t('commigSoon')"></p>
+        <StaffList />
+        <!-- <p v-html="$t('commigSoon')"></p> -->
     </div>
 </template>
 
